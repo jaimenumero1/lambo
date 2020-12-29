@@ -1,6 +1,6 @@
 #Digital Bank Web Application
-##### Test Username: JohnDoe@testemail.com
-##### Test Password: Password1
+##### Test Username: 
+##### Test Password: 
 
 
 ``` 
